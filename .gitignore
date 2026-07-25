@@ -1,0 +1,6 @@
+CLAUDE.md
+node_modules/
+.DS_Store
+.env.local
+.playwright-mcp/
+/.env
